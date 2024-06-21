@@ -1,5 +1,5 @@
 {
-  "name": "cf-middleware-set-header",
+  "name": "cf-middleware-move-permanently",
   "version": "0.1.0",
   "private": true,
   "scripts": {
